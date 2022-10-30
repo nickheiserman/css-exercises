@@ -1,0 +1,21 @@
+/* style.css */
+
+.uno {
+    background-color: #ffb3b3;
+    font-family: Verdana,DejaVu Sans, sans-serif; 
+}
+
+#dos {
+    color: #0039e6; 
+    font-size: 36px;
+}
+
+.tres {
+    font-size: 24px;
+}
+
+#quatro {
+    background-color: #7eff7e;
+    font-size: 24px;
+    font-weight: bold;
+}
