@@ -25,3 +25,46 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+
+.content {
+  text-align: center;
+}
+
+button {
+  padding: 8px 16px;
+}
+
+.footer {
+  background-color: rgb(214, 214, 214);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+ul {
+  margin: 0%;
+  padding: 0%;
+
+  display: flex;
+  list-style: none;
+  gap: 16px;
+}
